@@ -70,7 +70,7 @@
 ```bash
 python -m pip install -U pandas numpy matplotlib
 ```
-
+-下载数据，并将top300_metrics和脚本放在同一个目录下
 ### 1) Step 1：生成 long tables
 ```bash
 python build_long_tables.py \
@@ -102,6 +102,7 @@ python build_health_and_alerts.py \
 - `out/openrank_top_growth.csv`：区间增长 Top15（OpenRank(2023-03)-OpenRank(2020-01)）
 
 - `out/openrank_top_end.png` / `out/openrank_top_growth.png`：对应图表
+
 
 
 
