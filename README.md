@@ -95,9 +95,10 @@ python build_health_and_alerts.py \
 - `out/health_score_end.csv`
 - `out/alerts_end.csv`
 
-### 3) Step 3：生成期末健康度与告警
-和前两部类似，运行mini_report.py脚本，
+### 3) Step 3：生成轻量化项目影响力图表
+和前两步类似，运行mini_report.py脚本，
 它会从 `top_300_metrics/**/openrank.json` 读取数据，输出out文件夹，包含以下内容：
 - `out/openrank_top_end.csv`：期末影响力 Top15（OpenRank(2023-03)）
 - `out/openrank_top_growth.csv`：区间增长 Top15（OpenRank(2023-03)-OpenRank(2020-01)）
+
 - `out/openrank_top_end.png` / `out/openrank_top_growth.png`：对应图表
