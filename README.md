@@ -42,7 +42,7 @@
 ### 4) DataEase 大屏成果图（1 张）
 - `dataease_dashboard.png`：DataEase 大屏截图
 
-### 5) 项目解说（1份）
+### 5) 项目解说（3部份）
 - `数据报告.pdf` ：详细的数据处理过程与分析结论
 - `基于 OpenDigger Top300 指标的开源项目 Issue 净积压预警可视化大屏.pptx` ：数据大屏介绍
 - `视频` ：项目解说
@@ -102,5 +102,6 @@ python build_health_and_alerts.py \
 - `out/openrank_top_growth.csv`：区间增长 Top15（OpenRank(2023-03)-OpenRank(2020-01)）
 
 - `out/openrank_top_end.png` / `out/openrank_top_growth.png`：对应图表
+
 
 
