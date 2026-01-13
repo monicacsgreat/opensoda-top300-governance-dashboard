@@ -1,0 +1,16 @@
+﻿repo,start,end,delta
+home-assistant/core,1108.7,2387.11,1278.41
+NixOS/nixpkgs,1092.97,2080.5,987.53
+google/it-cert-automation-practice,35.07,890.45,855.38
+microsoft/PowerToys,147.96,784.08,636.12
+godotengine/godot,649.59,1158.5,508.91
+microsoft/playwright,39.8,528.94,489.14
+microsoft/vscode,1516.37,1954.14,437.77
+PaddlePaddle/Paddle,242.92,615.23,372.31
+keycloak/keycloak,68.12,419.8,351.68
+grafana/grafana,560.57,900.29,339.72
+openshift/openshift-docs,158.01,495.24,337.23
+openjdk/jdk,0.27,336.81,336.54
+firstcontributions/first-contributions,456.73,790.77,334.04
+llvm/llvm-project,16.61,338.95,322.34
+nrwl/nx,120.18,432.99,312.81
