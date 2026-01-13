@@ -6,8 +6,8 @@
 ## 0. 项目分工
 
 对对队的成员为耿紫琪和章欣怡，分别负责项目的以下部分：
-耿紫琪：alert_end.csv图表分析，DataEase可视化大屏制作，PPT制作，参赛视频录制
-章欣怡：数据处理脚本编写，数据报告撰写
+- `耿紫琪`：alert_end.csv图表分析，DataEase可视化大屏制作，PPT制作，参赛视频录制
+- `章欣怡`：数据处理脚本编写，数据报告撰写
 
 **当前版本的核心问题：**  
 > **如何快速识别 Top300 项目中“当月 Issue 净积压变化量（issues_new - issues_closed）显著上升”的项目，并形成可视化预警看板，辅助社区治理与资源调度？**
@@ -102,4 +102,5 @@ python build_health_and_alerts.py \
 - `out/openrank_top_growth.csv`：区间增长 Top15（OpenRank(2023-03)-OpenRank(2020-01)）
 
 - `out/openrank_top_end.png` / `out/openrank_top_growth.png`：对应图表
+
 
